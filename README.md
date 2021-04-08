@@ -31,7 +31,8 @@ For CIFAR-100 and compression rate=0.8:
     
          python all_w_distribution.py
          
-         ![image](https://user-images.githubusercontent.com/42563899/114003717-922bf900-9890-11eb-9c7c-571fc4da68e2.png)
+      
+     ![image](https://user-images.githubusercontent.com/42563899/114004159-f5b62680-9890-11eb-9fc5-aff5c60c2a93.png)
 
 
 ### Results
