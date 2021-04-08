@@ -26,7 +26,12 @@ For CIFAR-100 and compression rate=0.8:
 3. Training models with different compression rates
 
         python regular_compression.py
-  
+ 
+4. View weight distribution
+    
+         python all_w_distribution.py
+         ![image](https://user-images.githubusercontent.com/42563899/114002515-84c23f00-988f-11eb-8157-95b0a5d8acec.png)
+
 ### Results
 
 #### CIFAR-10
