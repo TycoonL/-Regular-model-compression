@@ -30,7 +30,9 @@ For CIFAR-100 and compression rate=0.8:
 4. View weight distribution
     
          python all_w_distribution.py
-         ![image](https://user-images.githubusercontent.com/42563899/114002515-84c23f00-988f-11eb-8157-95b0a5d8acec.png)
+         
+         ![image](https://user-images.githubusercontent.com/42563899/114003717-922bf900-9890-11eb-9c7c-571fc4da68e2.png)
+
 
 ### Results
 
