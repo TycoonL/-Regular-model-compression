@@ -13,20 +13,20 @@ This code is based on Model-Compression-Keras["deep compression"](https://arxiv.
 
 For CIFAR-10 and compression rate=0.8:
 
-    python train_cnn.py --model=vgg --data=c10 --compress-rate=0.8
+    python train_cnn.py --model=vgg --data=c10
 
 For CIFAR-100 and compression rate=0.8:
 
-    python train_cnn.py --model=vgg --data=c100 --compress-rate=0.8
+    python train_cnn.py --model=vgg --data=c100
     
 2. Decode and evaluation:
 
-    python decode_and_evaluate_cnn.py --model=vgg
+        python decode_and_evaluate_cnn.py --model=vgg
     
 3. Training models with different compression rates
 
-    python regular_compression.py
-
+        python regular_compression.py
+  
 ### Results
 
 #### CIFAR-10
