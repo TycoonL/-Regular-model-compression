@@ -1,7 +1,9 @@
 # Regular-model-compression
 
 cnn compression for keras
+
 English is not my native language,too; please excuse typing errors.
+
 This code is based on Model-Compression-Keras["deep compression"](https://arxiv.org/abs/1510.00149)
 
 
@@ -17,12 +19,12 @@ For CIFAR-100 and compression rate=0.8:
 
     python train_cnn.py --model=vgg --data=c100 --compress-rate=0.8
     
-    
 2. Decode and evaluation:
 
     python decode_and_evaluate_cnn.py --model=vgg
     
 3. Training models with different compression rates
+
     python regular_compression.py
 
 ### Results
